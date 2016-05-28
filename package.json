@@ -25,5 +25,8 @@
   "bugs": {
     "url": "https://github.com/avuori/nimiselite/issues"
   },
-  "homepage": "https://github.com/avuori/nimiselite#readme"
+  "homepage": "https://github.com/avuori/nimiselite#readme",
+  "scripts": {
+      "start": "node index.js"
+  }
 }
