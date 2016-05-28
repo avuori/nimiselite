@@ -1,0 +1,29 @@
+{
+  "name": "nimiselite",
+  "version": "1.0.0",
+  "description": "API joka kertoo ihmisen nimestä mielenkiintoista tietoa",
+  "main": "index.js",
+  "dependencies": {
+    "express": "^4.13.4"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/avuori/nimiselite.git"
+  },
+  "keywords": [
+    "nimi",
+    "nimet",
+    "api",
+    "rest"
+  ],
+  "author": "Arto Vuori",
+  "license": "CC0-1.0",
+  "bugs": {
+    "url": "https://github.com/avuori/nimiselite/issues"
+  },
+  "homepage": "https://github.com/avuori/nimiselite#readme"
+}
